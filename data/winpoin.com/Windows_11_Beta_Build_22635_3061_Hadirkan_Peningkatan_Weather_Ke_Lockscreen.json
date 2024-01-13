@@ -1,0 +1,25 @@
+{
+  "title": "Windows 11 Beta Build 22635.3061 Hadirkan Peningkatan Weather Ke Lockscreen",
+  "paragraphs": [
+    "Selain Windows Insider Dev dan Release Preview, Microsoft juga merilis update pertama untuk para pengguna Windows Insider Beta ditahun 2024 ini, dimana build yang dihadirkan untuk Insider Beta adalah 22635.3061.",
+    "Nah seperti biasa, ada dua perbedaan yang akan ditemukan pengguna yang mengaktifkan opsi Get the latest updates as soon as they are available di Windows Update dan yang tidak. Dan berikut adalah fitur dan peningkatan baru yang dihadirkan di Build 22635.3061.",
+    "",
+    "Sama seperti yang telah hadir di Windows Insider Dev Build 23615, Microsoft menghadirkan peningkatan pada bagian Windows Share dimana ada Windows Share akan menampilkan lebih banyak opsi jika penggguna akan mengirimkan link.",
+    "",
+    "Selain itu ada perbaikan pada reliability system operasi khusus pengguna yang mengaktifkan opsi ini (sayangnya tidak banyak hal yang dicatat Microsoft mengenai hal ini). ",
+    "",
+    "Selain peningkatan yang dicatat diatas, semua pengguna Windows Insider Beta baik yang mengaktifkan opsi Get the latest updates as soon as they are available atau yang tidak akan mendapatkan sejumlah peningkatan berikut: ",
+    "Yang pertama adanya informasi lebih detail pada weather di lockscreen WIndows 11, dimana ketika kamu melakukan hover pada area weather, maka kamu akan mendapatkan lebih banyak informasi dari MSN Weather. ",
+    "",
+    "Untuk mendapatkan peningkatan ini, kamu harus mengaktifkan opsi Weather pada halaman Settings > Personalization > Lock Screen > Lock screen status. ",
+    "",
+    "Nah sedikit informasi, fitur ini untuk sekarang masih ditargetkanuntuk pengguna yang menggunakan bahasa EN-US, jadi jika kamu menggunakan bahasa Indonesia atau bahasa lainnya, mungkin fitur ini belum tersedia.",
+    "Selain itu, Microsoft juga menghadirkan peningkatan di Settings, dimana Microsoft mulai memperbarui referensi AAD (Azure Active Directory) ke Microsoft Entra ID dihalaman Settings.",
+    "Selanjutnya ada beberapa perbaikan lain termasuk perbaikan pada masalah pada spellchecker dan perbaikan pada ActiveX scrollbar yang tidak bekerja di Internet Explorer Mode. ",
+    "Nah untuk kamu yang belum mendapatkan update ini, kamu sudah bisa mendapatkannya dari halaman Settings > Windows Update > Check for Updates > kemudian download dan install Windows 11 Insider Preview Build 22635.3061. ",
+    "Via : Microsoft",
+    "Penulis, Pengguna Windows 11, Elementary OS, dan Iphone SE 2020. Tag @gylang_satria di Disqus jika ada pertanyaan.",
+    "WinPoin adalah Portal Windows terbesar di Indonesia. Kami membahas berbagai hal seputar Windows, PC, laptop, dan penggunaannya untuk memudahkan hidup. We’re heaven for Windows users!",
+    "Contact us: winpoin@poin.asia"
+  ]
+}
